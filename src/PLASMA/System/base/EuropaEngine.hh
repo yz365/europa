@@ -1,5 +1,5 @@
-#ifndef H_EuropaEngine
-#define H_EuropaEngine
+#ifndef _H_EuropaEngine
+#define _H_EuropaEngine
 
 #include "Engine.hh"
 #include "Module.hh"

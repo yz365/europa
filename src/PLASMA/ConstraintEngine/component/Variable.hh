@@ -1,5 +1,5 @@
-#ifndef H_AbstractVar
-#define H_AbstractVar
+#ifndef _H_AbstractVar
+#define _H_AbstractVar
 
 #include "Domain.hh"
 #include "ConstrainedVariable.hh"

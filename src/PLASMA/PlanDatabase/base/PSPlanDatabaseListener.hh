@@ -1,5 +1,5 @@
-#ifndef H_PSPlanDatabaseListener
-#define H_PSPlanDatabaseListener
+#ifndef _H_PSPlanDatabaseListener
+#define _H_PSPlanDatabaseListener
 
 #include "PlanDatabaseListener.hh"
 #include "PSPlanDatabase.hh"
@@ -68,4 +68,4 @@ class PSPlanDatabaseListener : public PlanDatabaseListener {
 
 }
 
-#endif // H_PSPlanDatabaseListener
+#endif // _H_PSPlanDatabaseListener

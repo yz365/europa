@@ -1,5 +1,5 @@
-#ifndef H_DomainListener
-#define H_DomainListener
+#ifndef _H_DomainListener
+#define _H_DomainListener
 
 /**
  * @file DomainListener.hh

@@ -1,5 +1,5 @@
-#ifndef H_OpenWorldFVDetector
-#define H_OpenWorldFVDetector
+#ifndef _H_OpenWorldFVDetector
+#define _H_OpenWorldFVDetector
 
 #include "GenericFVDetector.hh"
 namespace EUROPA {

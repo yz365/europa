@@ -1,5 +1,5 @@
-#ifndef H_HasAncestorConstraint
-#define H_HasAncestorConstraint
+#ifndef _H_HasAncestorConstraint
+#define _H_HasAncestorConstraint
 
 #include "PlanDatabaseDefs.hh"
 #include "Constraint.hh"

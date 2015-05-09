@@ -1,5 +1,5 @@
-#ifndef H_ConstraintEngineListener
-#define H_ConstraintEngineListener
+#ifndef _H_ConstraintEngineListener
+#define _H_ConstraintEngineListener
 
 #include "ConstraintEngineDefs.hh"
 #include "DomainListener.hh"

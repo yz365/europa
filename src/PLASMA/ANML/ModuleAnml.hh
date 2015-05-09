@@ -1,6 +1,6 @@
 
-#ifndef H_ModuleAnml
-#define H_ModuleAnml
+#ifndef _H_ModuleAnml
+#define _H_ModuleAnml
 
 #include "Module.hh"
 
@@ -29,4 +29,4 @@ namespace EUROPA {
 }  
 
 
-#endif /* #ifndef H_ModuleAnml */
+#endif /* #ifndef _H_ModuleAnml */

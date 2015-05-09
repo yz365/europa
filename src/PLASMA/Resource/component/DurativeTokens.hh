@@ -1,5 +1,5 @@
-#ifndef H_DurativeTokens
-#define H_DurativeTokens
+#ifndef _H_DurativeTokens
+#define _H_DurativeTokens
 
 #include "ResourceDefs.hh"
 #include "EventToken.hh"

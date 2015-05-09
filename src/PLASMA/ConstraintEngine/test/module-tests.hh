@@ -1,5 +1,5 @@
-#ifndef H_ModuleTests
-#define H_ModuleTests
+#ifndef _H_ModuleTests
+#define _H_ModuleTests
 
 #include <cppunit/TestFixture.h>
 #include <cppunit/extensions/HelperMacros.h>

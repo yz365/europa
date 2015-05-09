@@ -1,5 +1,5 @@
-#ifndef H_Reusable
-#define H_Reusable
+#ifndef _H_Reusable
+#define _H_Reusable
 
 #include "ResourceDefs.hh"
 #include "Resource.hh"

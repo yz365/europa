@@ -1,5 +1,5 @@
-#ifndef H_Object
-#define H_Object
+#ifndef _H_Object
+#define _H_Object
 
 /**
  * @file   Object.hh

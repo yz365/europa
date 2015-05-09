@@ -1,5 +1,5 @@
-#ifndef H_PSResource
-#define H_PSResource
+#ifndef _H_PSResource
+#define _H_PSResource
 
 #include "PSPlanDatabase.hh"
 #include "ResourceDefs.hh"

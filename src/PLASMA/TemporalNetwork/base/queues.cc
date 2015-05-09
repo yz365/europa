@@ -79,6 +79,7 @@ BucketQueue::BucketQueue (int) : buckets(NULL) {
 
 BucketQueue::~BucketQueue ()
 {
+  if(buckets != 0)
     delete buckets;
 }
 

@@ -1,5 +1,5 @@
-#ifndef H_RuleVariableListener
-#define H_RuleVariableListener
+#ifndef _H_RuleVariableListener
+#define _H_RuleVariableListener
 
 #include "RulesEngineDefs.hh"
 #include "Constraint.hh"

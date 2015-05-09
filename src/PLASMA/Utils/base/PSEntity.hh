@@ -1,5 +1,5 @@
-#ifndef PSENTITY_H_
-#define PSENTITY_H_
+#ifndef _PSENTITY_H_
+#define _PSENTITY_H_
 
 #include <string>
 
@@ -23,4 +23,4 @@ class PSEntity
 
 }
 
-#endif /* PSENTITY_H_ */
+#endif /* _PSENTITY_H_ */

@@ -1,6 +1,6 @@
 
-#ifndef H_ModulePlanDatabase
-#define H_ModulePlanDatabase
+#ifndef _H_ModulePlanDatabase
+#define _H_ModulePlanDatabase
 
 #include "Module.hh"
 
@@ -29,4 +29,4 @@ namespace EUROPA {
 }  
 
 
-#endif /* #ifndef H_ModulePlanDatabase */
+#endif /* #ifndef _H_ModulePlanDatabase */

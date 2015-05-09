@@ -1,5 +1,5 @@
-#ifndef H_InstantTokens
-#define H_InstantTokens
+#ifndef _H_InstantTokens
+#define _H_InstantTokens
 
 #include "ResourceDefs.hh"
 #include "EventToken.hh"

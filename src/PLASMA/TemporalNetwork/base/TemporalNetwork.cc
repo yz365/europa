@@ -401,7 +401,7 @@ TemporalNetwork::TemporalNetwork() : consistent(true),
     return(id->lowerBound);
   }
 
-#ifdef EUROPA_NO_ERROR_CHECKS_
+#ifdef _EUROPA_NO_ERROR_CHECKS_
 # define checkBoundsValidity(lo, hi) (true)
 #else
   static Bool checkBoundsValidity(const Time lb, const Time ub) {

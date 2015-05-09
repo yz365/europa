@@ -1,5 +1,5 @@
-#ifndef H_TimetableProfile
-#define H_TimetableProfile
+#ifndef _H_TimetableProfile
+#define _H_TimetableProfile
 
 #include "ResourceDefs.hh"
 #include "Profile.hh"

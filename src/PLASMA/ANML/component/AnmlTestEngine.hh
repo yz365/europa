@@ -1,5 +1,5 @@
-#ifndef H_ANML_TEST_ENGINE_
-#define H_ANML_TEST_ENGINE_
+#ifndef _H_ANML_TEST_ENGINE_
+#define _H_ANML_TEST_ENGINE_
 
 #include "NddlTestEngine.hh"
 
@@ -13,4 +13,4 @@ class AnmlTestEngine : public NddlTestEngine
 	virtual void createModules();
 };
 
-#endif // H_ANML_TEST_ENGINE_
+#endif // _H_ANML_TEST_ENGINE_

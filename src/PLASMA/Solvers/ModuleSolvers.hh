@@ -1,6 +1,6 @@
 
-#ifndef H_ModuleSolvers
-#define H_ModuleSolvers
+#ifndef _H_ModuleSolvers
+#define _H_ModuleSolvers
 
 #include "Module.hh"
 
@@ -29,4 +29,4 @@ namespace EUROPA {
 }  
 
 
-#endif /* #ifndef H_ModuleSolvers */
+#endif /* #ifndef _H_ModuleSolvers */

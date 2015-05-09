@@ -1,5 +1,5 @@
-#ifndef H_CommonAncestorConstraint
-#define H_CommonAncestorConstraint
+#ifndef _H_CommonAncestorConstraint
+#define _H_CommonAncestorConstraint
 
 /**
  * @file CommonAncestor.hh

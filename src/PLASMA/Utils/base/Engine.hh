@@ -1,5 +1,5 @@
-#ifndef H_ENGINE
-#define H_ENGINE
+#ifndef _H_ENGINE
+#define _H_ENGINE
 
 #include <iosfwd>
 #include <map>

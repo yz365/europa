@@ -1,5 +1,5 @@
-#ifndef H_Rule
-#define H_Rule
+#ifndef _H_Rule
+#define _H_Rule
 
 
 /**

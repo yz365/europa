@@ -11,8 +11,8 @@
 //  ownership of the software is hereby transferred.  This notice shall
 //  remain on all copies of the software.
 
-#ifndef H_Debug
-#define H_Debug
+#ifndef _H_Debug
+#define _H_Debug
 
 #ifdef ALL_LOGGING_DISABLED
 #  include "DebugMsgEmpty.hh"
@@ -24,4 +24,4 @@
 #  endif /* USE_EUROPA_LOGGER */ 
 #endif /* DEBUG_MESSAGE_SUPPORT */
 
-#endif /* H_Debug */
+#endif /* _H_Debug */

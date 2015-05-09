@@ -1,5 +1,5 @@
-#ifndef H_BOOST_FLOW_PROFILE
-#define H_BOOST_FLOW_PROFILE
+#ifndef _H_BOOST_FLOW_PROFILE
+#define _H_BOOST_FLOW_PROFILE
 #include "FlowProfile.hh"
 #include "BoostFlowProfileGraph.hh"
 namespace EUROPA {

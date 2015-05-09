@@ -1,5 +1,5 @@
-#ifndef H_Profile
-#define H_Profile
+#ifndef _H_Profile
+#define _H_Profile
 
 /**
  * @file Profile.hh

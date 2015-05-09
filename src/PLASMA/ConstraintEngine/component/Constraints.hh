@@ -1,5 +1,5 @@
-#ifndef H_Constraints
-#define H_Constraints
+#ifndef _H_Constraints
+#define _H_Constraints
 
 #include "ConstraintEngineDefs.hh"
 #include "Constraint.hh"

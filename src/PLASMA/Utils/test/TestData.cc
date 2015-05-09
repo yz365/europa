@@ -18,7 +18,7 @@
    @brief Numerous declarations related to testing.
 */
 
-#ifndef NO_ERROR_EXCEPTIONS_
+#ifndef _NO_ERROR_EXCEPTIONS_
 /* Contains the rest of this file */
 
 #include "TestData.hh"
@@ -65,4 +65,4 @@ void TestData::correctException(const std::string& ,
   std::cout << "Caught expected exception " << exception << '\n';
 }
 
-#endif /* NO_ERROR_EXCEPTIONS_ */
+#endif /* _NO_ERROR_EXCEPTIONS_ */

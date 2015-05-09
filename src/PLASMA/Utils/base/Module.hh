@@ -1,5 +1,5 @@
-#ifndef H_MODULE
-#define H_MODULE
+#ifndef _H_MODULE
+#define _H_MODULE
 
 #include <string>
 #include "Id.hh"

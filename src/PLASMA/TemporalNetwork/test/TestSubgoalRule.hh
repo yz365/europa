@@ -1,5 +1,5 @@
-#ifndef H_TestSubgoalRule
-#define H_TestSubgoalRule
+#ifndef _H_TestSubgoalRule
+#define _H_TestSubgoalRule
 
 #include "Rule.hh"
 

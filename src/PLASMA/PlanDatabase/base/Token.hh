@@ -1,5 +1,5 @@
-#ifndef H_Token
-#define H_Token
+#ifndef _H_Token
+#define _H_Token
 
 /**
  * @author Conor McGann

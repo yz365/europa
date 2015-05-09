@@ -1,5 +1,5 @@
-#ifndef H_DbClient
-#define H_DbClient
+#ifndef _H_DbClient
+#define _H_DbClient
 
 #include "PlanDatabaseDefs.hh"
 #include "PSPlanDatabase.hh"

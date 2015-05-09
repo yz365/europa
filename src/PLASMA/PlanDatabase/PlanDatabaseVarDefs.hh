@@ -1,5 +1,5 @@
-#ifndef PLANDATABASEVARDEFS_H_
-#define PLANDATABASEVARDEFS_H_
+#ifndef _PLANDATABASEVARDEFS_H_
+#define _PLANDATABASEVARDEFS_H_
 
 #include "Id.hh"
 #include "Variable.hh"
@@ -18,4 +18,4 @@ namespace EUROPA {
 
 }
 
-#endif /* PLANDATABASEVARDEFS_H_ */
+#endif /* _PLANDATABASEVARDEFS_H_ */

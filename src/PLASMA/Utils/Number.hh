@@ -1,5 +1,5 @@
-#ifndef H_Number
-#define H_Number
+#ifndef _H_Number
+#define _H_Number
 //#include <iomanip>
 
 #include <cassert>
@@ -831,4 +831,4 @@ inline EUROPA::edouble fmod(const EUROPA::edouble a, const EUROPA::edouble b) {r
 // #define min MIN_COPY
 // #define max MAX_COPY
 
-#endif /* H_Number */
+#endif /* _H_Number */

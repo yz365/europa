@@ -1,5 +1,5 @@
-#ifndef H_RulesEngineDefs
-#define H_RulesEngineDefs
+#ifndef _H_RulesEngineDefs
+#define _H_RulesEngineDefs
 
 #include "PlanDatabaseDefs.hh"
 

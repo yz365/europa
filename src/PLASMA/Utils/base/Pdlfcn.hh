@@ -1,5 +1,5 @@
-#ifndef H_Pdlfcn
-#define H_Pdlfcn
+#ifndef _H_Pdlfcn
+#define _H_Pdlfcn
 
 /**
  * @file   Pdlfcn.hh

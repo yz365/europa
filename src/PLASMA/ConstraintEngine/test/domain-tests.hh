@@ -1,5 +1,5 @@
-#ifndef H_DomainTests
-#define H_DomainTests
+#ifndef _H_DomainTests
+#define _H_DomainTests
 
 class DomainTests {
 public:

@@ -1,5 +1,5 @@
-#ifndef H_Transaction
-#define H_Transaction
+#ifndef _H_Transaction
+#define _H_Transaction
 
 /**
  * @file Transaction.hh

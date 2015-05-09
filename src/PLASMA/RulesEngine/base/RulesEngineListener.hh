@@ -1,5 +1,5 @@
-#ifndef H_RulesEngineListener
-#define H_RulesEngineListener
+#ifndef _H_RulesEngineListener
+#define _H_RulesEngineListener
 
 #include "RulesEngineDefs.hh"
 

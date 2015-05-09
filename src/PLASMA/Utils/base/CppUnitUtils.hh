@@ -17,7 +17,9 @@
         runner.setOutputter(outputter); \
     } \
     bool success = runner.run("", false); \
-    delete os;                            \
+    if(os != NULL) { \
+         delete os; \
+    } \
     return success ? 0 : 1; \
 }
 

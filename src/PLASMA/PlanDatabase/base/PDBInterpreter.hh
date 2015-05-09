@@ -1,5 +1,5 @@
-#ifndef H_PDBInterpreter
-#define H_PDBInterpreter
+#ifndef _H_PDBInterpreter
+#define _H_PDBInterpreter
 
 #include "ConstraintEngineDefs.hh"
 #include "PlanDatabaseDefs.hh"
@@ -93,4 +93,4 @@ class EvalContext {
 
 }
 
-#endif // H_PDBInterpreter
+#endif // _H_PDBInterpreter

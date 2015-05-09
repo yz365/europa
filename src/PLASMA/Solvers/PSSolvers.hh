@@ -1,5 +1,5 @@
-#ifndef H_PSSolvers
-#define H_PSSolvers
+#ifndef _H_PSSolvers
+#define _H_PSSolvers
 
 #include "Engine.hh"
 #include "PSList.hh"

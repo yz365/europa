@@ -1,5 +1,5 @@
-#ifndef H_CONSTRAINT_TESTING
-#define H_CONSTRAINT_TESTING
+#ifndef _H_CONSTRAINT_TESTING
+#define _H_CONSTRAINT_TESTING
 
 /**
  * @file ConstraintTesting.hh

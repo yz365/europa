@@ -1,5 +1,5 @@
-#ifndef H_StackMemento
-#define H_StackMemento
+#ifndef _H_StackMemento
+#define _H_StackMemento
 
 #include "PlanDatabaseDefs.hh"
 #include "Token.hh"

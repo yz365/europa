@@ -1,5 +1,5 @@
-#ifndef H_DbClientTransactionPlayer
-#define H_DbClientTransactionPlayer
+#ifndef _H_DbClientTransactionPlayer
+#define _H_DbClientTransactionPlayer
 
 #include "PlanDatabaseDefs.hh"
 #include <iostream>
@@ -210,4 +210,4 @@ namespace EUROPA {
   };
 }
 
-#endif // H_DbClientTransactionPlayer
+#endif // _H_DbClientTransactionPlayer

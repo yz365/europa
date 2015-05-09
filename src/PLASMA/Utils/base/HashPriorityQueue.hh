@@ -20,8 +20,8 @@ Notes:
     for a given key so that new elements can be inserted.
 **************************************************************************/
 
-#ifndef H_HashPriority
-#define H_HashPriority
+#ifndef _H_HashPriority
+#define _H_HashPriority
 
 #include "CommonDefs.hh"
 

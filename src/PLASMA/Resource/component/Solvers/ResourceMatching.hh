@@ -1,5 +1,5 @@
-#ifndef H_ResourceMatching
-#define H_ResourceMatching
+#ifndef _H_ResourceMatching
+#define _H_ResourceMatching
 
 #include "MatchingEngine.hh"
 #include "ResourceDefs.hh"

@@ -1,5 +1,5 @@
-#ifndef H_FlowProfileGraph
-#define H_FlowProfileGraph
+#ifndef _H_FlowProfileGraph
+#define _H_FlowProfileGraph
 
 
 #include "Types.hh"

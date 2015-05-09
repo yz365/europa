@@ -1,5 +1,5 @@
-#ifndef H_VariableChangeListener
-#define H_VariableChangeListener
+#ifndef _H_VariableChangeListener
+#define _H_VariableChangeListener
 
 /**
  * @file VariableChangeListener.hh

@@ -1,5 +1,5 @@
-#ifndef H_UnifyMemento
-#define H_UnifyMemento
+#ifndef _H_UnifyMemento
+#define _H_UnifyMemento
 
 #include "PlanDatabaseDefs.hh"
 //#include "TokenVariable.hh"

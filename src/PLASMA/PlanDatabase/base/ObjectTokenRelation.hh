@@ -1,5 +1,5 @@
-#ifndef H_ObjectTokenRelation
-#define H_ObjectTokenRelation
+#ifndef _H_ObjectTokenRelation
+#define _H_ObjectTokenRelation
 
 #include "PlanDatabaseDefs.hh"
 #include "DomainListener.hh"

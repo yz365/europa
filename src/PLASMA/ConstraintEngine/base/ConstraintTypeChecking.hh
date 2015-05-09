@@ -1,5 +1,5 @@
-#ifndef CONSTRAINTTYPECHECKING_H_
-#define CONSTRAINTTYPECHECKING_H_
+#ifndef _CONSTRAINTTYPECHECKING_H_
+#define _CONSTRAINTTYPECHECKING_H_
 
 #include "ConstraintType.hh"
 #include "DataType.hh"
@@ -501,4 +501,4 @@ class DataTypeCheck : public DataTypeCheckBase<TypeCheck> {
 };
 }
 
-#endif /* CONSTRAINTTYPECHECKING_H_ */
+#endif /* _CONSTRAINTTYPECHECKING_H_ */

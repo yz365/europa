@@ -1,5 +1,5 @@
-#ifndef H_PSEngineImpl
-#define H_PSEngineImpl
+#ifndef _H_PSEngineImpl
+#define _H_PSEngineImpl
 
 #include "PSEngine.hh"
 #include "EuropaEngine.hh"
@@ -68,4 +68,4 @@ namespace EUROPA {
 
 }
 
-#endif // H_PSEngineImpl
+#endif // _H_PSEngineImpl

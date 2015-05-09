@@ -1,5 +1,5 @@
-#ifndef H_GenericFVDetector
-#define H_GenericFVDetector
+#ifndef _H_GenericFVDetector
+#define _H_GenericFVDetector
 
 #include "FVDetector.hh"
 #include "Instant.hh"
